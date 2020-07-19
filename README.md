@@ -37,11 +37,10 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=imalisiddique&repo=devsonket.github.io&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-### Status
+---
 
 ![Ali Siddique's github stats](https://github-readme-stats.vercel.app/api?username=imalisiddique&show_icons=true&title_color=fff&icon_color=4392f1&text_color=fff&bg_color=344055)
 
-### 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=imalisiddique)
 
