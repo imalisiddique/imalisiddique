@@ -1,12 +1,16 @@
-### Hi there, I'm [Ali Siddique!](https://alisiddique.com)
+<h1 align="center">Hi 👋, I'm Ali Siddique</h1>
+<h3 align="center">Just Another WordPress Developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imalisiddique" alt="imalisiddique" /> </p>
 
-Hi, I'm Ali Siddique, Just another WordPress Developer.
+- 🔭 I’m currently working on **N/A**
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on **N/A**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: imalisiddique@gmail.com
+- 👨‍💻 All of my projects are available at [alisiddique.com](alisiddique.com)
+
+- 📝 I regulary write articles on [alisiddique.com](alisiddique.com)
+
+- 📫 How to reach me **imalisiddique@gmail.com**
 
 ### Connect
 
