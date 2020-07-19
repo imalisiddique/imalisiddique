@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Siddique</h1>
 <h3 align="center">Just Another WordPress Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imalisiddique" alt="imalisiddique" /> </p>
 
 - 🔭 I’m currently working on **N/A**
 
