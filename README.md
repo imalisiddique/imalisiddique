@@ -50,3 +50,11 @@
 
 -->
 <!-- START gadpp -->
+
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imalisiddique&theme=radical&hide_langs_below=1" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imalisiddique&show_icons=true&theme=radical&line_height=27" alt="Ali's github stats" />
+</a>
