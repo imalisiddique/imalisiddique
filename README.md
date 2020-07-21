@@ -19,16 +19,51 @@
 
 ### Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
+![BitBucket](https://img.shields.io/badge/-BitBucket-black?style=flat-square&logo=bitbucket)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![jquery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![cpanel](https://img.shields.io/badge/-cpanel-black?style=flat-square&logo=cpanel)
+![Codeigniter](https://img.shields.io/badge/-Codeigniter-black?style=flat-square&logo=codeigniter)
+![xampp](https://img.shields.io/badge/-Xampp-black?style=flat-square&logo=xampp)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Slack](https://img.shields.io/badge/-Slack-black?style=flat-square&logo=slack)
+![visualstudiocode](https://img.shields.io/badge/-VScode-black?style=flat-square&logo=visualstudiocode)
+![wordpress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress)
+![gutenberg](https://img.shields.io/badge/-Gutenberg-black?style=flat-square&logo=gutenberg)
+![Woo](https://img.shields.io/badge/-Woo-black?style=flat-square&logo=woo)
+![Woocommerce](https://img.shields.io/badge/-Woocommerce-black?style=flat-square&logo=woocommerce)
+![Yoast](https://img.shields.io/badge/-Yoast-black?style=flat-square&logo=yoast)
+![shopify](https://img.shields.io/badge/-Shopify-black?style=flat-square&logo=shopify)
+![squarespace](https://img.shields.io/badge/-Squarespace-black?style=flat-square&logo=squarespace)
+
+![AdobeXD](https://img.shields.io/badge/-AdobeXD-black?style=flat-square&logo=adobexd)
+![adobephotoshop](https://img.shields.io/badge/-AdobePhotoshop-black?style=flat-square&logo=adobephotoshop)
+![AdobeIllustrator](https://img.shields.io/badge/-AdobeIllustrator-black?style=flat-square&logo=adobeillustrator)
+
+![Meetup](https://img.shields.io/badge/-Meetup-black?style=flat-square&logo=meetup)
+![Toggl](https://img.shields.io/badge/-Toggl-black?style=flat-square&logo=toggl)
+![Filezilla](https://img.shields.io/badge/-Filezilla-black?style=flat-square&logo=filezilla)
+![Gmail](https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=gmail)
+![Payoneer](https://img.shields.io/badge/-Payoneer-black?style=flat-square&logo=Payoneer)
+![xiaomi](https://img.shields.io/badge/-Xiaomi-black?style=flat-square&logo=xiaomi)
+![pingdom](https://img.shields.io/badge/-Pingdom-black?style=flat-square&logo=pingdom)
+![skype](https://img.shields.io/badge/-Skype-black?style=flat-square&logo=skype)
+![windows](https://img.shields.io/badge/-Windows10-black?style=flat-square&logo=windows)
+![letsencrypt](https://img.shields.io/badge/-Letsencrypt-black?style=flat-square&logo=letsencrypt)
+![behance](https://img.shields.io/badge/-Behance-black?style=flat-square&logo=behance)
+![basecamp](https://img.shields.io/badge/-Basecamp-black?style=flat-square&logo=basecamp)
+
+
+
+
 
 <!--
 
@@ -48,9 +83,6 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=imalisiddique)
 
--->
-<!-- START gadpp -->
-
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imalisiddique&theme=radical&hide_langs_below=1" />
@@ -58,3 +90,6 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=imalisiddique&show_icons=true&theme=radical&line_height=27" alt="Ali's github stats" />
 </a>
+
+-->
+<!-- START gadpp -->
