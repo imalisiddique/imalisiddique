@@ -13,9 +13,9 @@
 
 ### Connect
 
-[![Linkedin Badge](https://img.shields.io/badge/-imalisiddique-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imalisiddique/)](https://www.linkedin.com/in/imalisiddique/)
-[![Instagram Badge](https://img.shields.io/badge/-imalisiddique-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/imalisiddique/)](https://instagram.com/imalisiddique)
-[![Gmail Badge](https://img.shields.io/badge/-imalisiddique@gmail.com-010101?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:imalisiddique@gmail.com)](mailto:imalisiddique@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-imalisiddique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imalisiddique/)](https://www.linkedin.com/in/imalisiddique/)
+[![Instagram Badge](https://img.shields.io/badge/-imalisiddique-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/imalisiddique/)](https://instagram.com/imalisiddique)
+[![Gmail Badge](https://img.shields.io/badge/-imalisiddique@gmail.com-010101?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imalisiddique@gmail.com)](mailto:imalisiddique@gmail.com)
 
 ### Technologies
 
@@ -44,9 +44,9 @@
 ![shopify](https://img.shields.io/badge/-Shopify-black?style=flat-square&logo=shopify)
 ![squarespace](https://img.shields.io/badge/-Squarespace-black?style=flat-square&logo=squarespace)
 
-![AdobeXD](https://img.shields.io/badge/-AdobeXD-black?style=flat-square&logo=adobexd)
+![adobexd](https://img.shields.io/badge/-AdobeXD-black?style=flat-square&logo=adobexd)
 ![adobephotoshop](https://img.shields.io/badge/-AdobePhotoshop-black?style=flat-square&logo=adobephotoshop)
-![AdobeIllustrator](https://img.shields.io/badge/-AdobeIllustrator-black?style=flat-square&logo=adobeillustrator)
+![adobeillustrator](https://img.shields.io/badge/-AdobeIllustrator-black?style=flat-square&logo=adobeillustrator)
 
 ![Meetup](https://img.shields.io/badge/-Meetup-black?style=flat-square&logo=meetup)
 ![Toggl](https://img.shields.io/badge/-Toggl-black?style=flat-square&logo=toggl)
