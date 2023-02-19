@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Siddique</h1>
 <h3 align="center">Just Another WordPress Developer | CMS & WooCommerce Expert | Graphic Designer 🤘 </h3>
 
-- 🔭 I’m currently working on **N/A**
-
-- 👯 I’m looking to collaborate on **N/A**
-
 - 👨‍💻 All of my projects are available at [alisiddique.com](alisiddique.com)
 
 - 📝 I regulary write articles on [alisiddique.com](alisiddique.com)
