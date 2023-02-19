@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Siddique</h1>
-<h3 align="center">Just Another WordPress Developer | CMS & WooCommerce Expert | Graphic Designer 🤘 </h3>
+<h3 align="center">Just Another WordPress Expert & Graphic Designer 🤘 </h3>
 
 - 👨‍💻 All of my projects are available at [alisiddique.com](alisiddique.com)
 
