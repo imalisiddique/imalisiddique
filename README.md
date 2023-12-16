@@ -20,6 +20,7 @@
 ![jquery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
 
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![cpanel](https://img.shields.io/badge/-cpanel-black?style=flat-square&logo=cpanel)
 
