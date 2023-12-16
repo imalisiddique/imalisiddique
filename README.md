@@ -4,8 +4,6 @@
 
 - 👨‍💻 All of my projects are available at [alisiddique.com](alisiddique.com)
 
-- 📝 I regulary write articles on [alisiddique.com](alisiddique.com)
-
 - 📫 How to reach me **imalisiddique@gmail.com**
 
 ### Connect
