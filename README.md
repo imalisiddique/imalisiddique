@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Siddique</h1>
+<h1 align="center">Hi 👋, i'm Ali Siddique</h1>
 <h3 align="center">Just Another WordPress Expert & Graphic Designer 🤘 </h3>
 
 
